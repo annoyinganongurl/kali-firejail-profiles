@@ -1,1 +1,1 @@
-# kali-firejail-profiles
+Repo for custom firejail profiles
